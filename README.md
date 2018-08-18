@@ -18,7 +18,7 @@ Bunun için pom.xml içerisinde, < build > tag'i içerisine şu satırı yazıyo
 
 Dockerfile dosyamızı oluşturuyoruz
 
-![alt text](http://i.hizliresim.com/DDWZ0z.png)
+![alt text](https://raw.githubusercontent.com/muhammedOzbilici/DockerSpringBootApplication/master/src/main/resources/images/2.png)
 
 Daha sonra, oluşturduğumuz Dockerfile dosyasına şunları yazacağız;
 İlk olarak repository seçeceğiz ; 
@@ -60,7 +60,7 @@ openjdk repository indirme işlemini yapacaktır. Oluşturulan image dosyaların
 
 yazıp entere bastığımızda, şu image'ler görüntülenecektir.
 
-![alt text](http://i.hizliresim.com/oVqvom.png)
+![alt text](https://raw.githubusercontent.com/muhammedOzbilici/DockerSpringBootApplication/master/src/main/resources/images/1.png)
 
 
 docker image dosyamızı çalıştırıyoruz
@@ -77,4 +77,4 @@ yeni bir terminal açıp , aynı image'i , farklı bir port üzerinden de çalı
 
 hem 8086 portu üzerinde hem de 8087 portu üzerinde uygulamamızın çalıştığını göreceksiniz.
 
-https://resmim.net/f/ayPsRh.png
+![alt text](https://raw.githubusercontent.com/muhammedOzbilici/DockerSpringBootApplication/master/src/main/resources/images/3.png)
